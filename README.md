@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello! 👋
 
-<!--
-**bein7/bein7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech enthusiast here, navigating the realms of Deep Tech 🚀
 
-Here are some ideas to get you started:
+Co-Founder & CEO at [Kaanari](https://kaanari.com), steering a band of design buffs 🎨 and code wizards 🧙‍♂️ on a tech trek from Paris to Abidjan!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Fascinated by all things tech, from software to embedded systems.
+
+🧠 Passionate about neuroscience, exploring the intersection of AI and the human mind.
+
+💬 Eager to discuss AI, tech innovations, or neuroscience? Reach out!
+
+
+🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/beinset-v-hounwanou/)
+- [Twitter](https://twitter.com/beinsetx)
+- [Medium](https://beinset.medium.com)
+- [Github Kaanari](https://github.com/kaanari-tech)
+
+
+Exploring the unknown, one code line at a time. 🚀
